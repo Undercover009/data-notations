@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Samsung" model="Galaxy S24 Ultra" releaseYear="2024">
+        <specs>
+            <screenSize unit="inch">6.8</screenSize>
+            <batteryCapacity unit="mAh">5000</batteryCapacity>
+            <storage unit ="GB">512</storage>
+            <camera unit="MP">200</camera>
+        </specs>
+    </smartphone>
+
 </smartphones>

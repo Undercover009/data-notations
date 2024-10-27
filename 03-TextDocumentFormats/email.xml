@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--sender, recipient, subject and message body-->
+<email>
+    <sender>me@gmail.com</sender>
+    <recipient>you@gmail.com</recipient>
+    <subject>A usual email subject!</subject>
+    <message_body>I await your reply</message_body>
+</email>
