@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!--containing information about the three means of transport you use. 
 To describe a single means of transport, 
 use at least 4 elements and two attributes.-->
-
-<?xml version="1.0" encoding="UTF-8"?>
 <transport>
     <type>
         <car brand="Opel" year="2012">
@@ -15,7 +15,7 @@ use at least 4 elements and two attributes.-->
         </car>
         <autobus>
             <specs>
-                <length unit="m">12</lenght>
+                <length unit="m">12</length>
                 <colour>blue</colour>
                 <engine>Hybrid</engine>
                 <power unit="kW">210</power>
@@ -26,7 +26,7 @@ use at least 4 elements and two attributes.-->
                 <speed unit="km/h">250</speed>
                 <power unit="kW">5500</power>
                 <weight unit="t">395.5</weight>
-                <lenth unit="m">4.1</lenght>
+                <length unit="m">4.1</length>
             </specs>
         </pociag>
     </type>
