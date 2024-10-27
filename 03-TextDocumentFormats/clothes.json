@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name":"Dr. Martens",
+        "founded": 1901,
+        "headquarters": "Wellingborough, United Kingdom",
+        "employees": 2630,
+        "products": [
+            "Shoes",
+            "Boots",
+            "Accessories"
+        ]
+    },
+    {
+        "name":"New Yorker",
+        "founded": 1925,
+        "headquarters": "Braunschweig, Germany",
+        "employees": 23000,
+        "products":[
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
     }
 ]

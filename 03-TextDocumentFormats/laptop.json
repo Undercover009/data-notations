@@ -1,0 +1,11 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"],
+    "resolution": "1920 x 1080",
+    "screen": 15.6,
+    "WifiConnection": true,
+    "appsIncluded": ["Adobe", "Norton"]
+    }

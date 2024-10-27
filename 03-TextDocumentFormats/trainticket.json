@@ -1,0 +1,8 @@
+{
+    "departingCity": "Krakow",
+    "arrivalCity":"Wrocław",
+    "ticketNumber": 166429506,
+    "hasBeenPaidFor": true,
+    "trainNumber": "IC 5312",
+    "pricePLN":41.16
+}
