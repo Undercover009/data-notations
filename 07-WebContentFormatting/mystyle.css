@@ -1,0 +1,26 @@
+body 
+{
+    background-color: #f7dfa4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 
+{
+    font-size: 50px;
+    text-align: center;
+    color: #432818;
+}
+
+h2 
+{
+    text-align: center;
+    color: #6f1d1b;
+    font-size: 30px;
+}
+
+p
+{
+    text-align: left;
+    margin-left: 10px;
+    color: #99582a;
+}

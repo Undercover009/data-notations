@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+
+/* unvisited link */
+
+a:link {
+    color: red;
+    background-color: #f5f5f5;
+    font-family: fantasy;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+    background-color: rgb(183, 233, 183);
+    font-family: monospace;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    background-color: pink;
+    font-family: cursive;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+    background-color: rgb(163, 163, 252);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
