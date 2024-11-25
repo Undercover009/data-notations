@@ -1,0 +1,43 @@
+/*Change the background color of the table header: Use the background-color property to set a background color for the table header 
+( cells), for example, dark green to give the table a more distinguished look.
+
+Add padding to table cells: Use the padding property to add internal margins inside the cells (both and ) to make the content 
+more readable and properly spaced.
+
+Add a border to the table: Use the border and border-collapse properties to set a uniform border around table cells. You can 
+specify the border thickness and style, such as solid or dashed.
+
+Set the width of table columns: Use the width property to control the width of each column in the table. For example, set the 
+"Landmark" column to 25% and the "Significance" column to 40%.
+
+Change text color and add hover effect: Use the color property to change the text color and the :hover pseudo-class to add a 
+hover effect that changes the background color when a user hovers over a table row. */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 5px solid #0e1a07;
+    margin: 25px 0;
+    font-size: 25px;
+    text-align: center;
+}
+
+th {
+    background-color: #606c38;
+    color: #0e1a07;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+th:nth-child(1) {
+    width: 25%;
+}
+th:nth-child(4){
+    width: 40%;
+}
+td {
+    font-size: 20px;
+    padding: 10px;
+}
+tr:hover{
+    background-color: #c0bf75;
+}
