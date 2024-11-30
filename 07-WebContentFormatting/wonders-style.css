@@ -1,0 +1,105 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1 {
+    font-size: auto;
+    margin-top: 20px;
+    color: white;
+    background-image: url('nature-jpg.jpg');
+    text-align: center;
+    max-width: 100%;
+    height: 350px;
+    background-size: cover
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(230, 185, 148);
+}
+
+h2[class="TGC"] {
+    color: brown;
+}
+
+h2[class="TGBR"] {
+    color: rgb(165, 42, 114);
+}
+
+h2[class="ME"] {
+    color: rgb(99, 42, 165);
+}
+
+td, th{
+
+    padding: 5px;
+    border: solid, 3px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    margin-left:10%;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+    width: 80%;
+    margin-bottom: 15px;
+    margin-left:10%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    resize: none;
+    box-sizing: border-box;
+}
+
+input[type="date"] {
+    margin-left:10%;
+}
+
+input[type="submit"]
+{
+    width: 50% ;
+    height: 50px;
+    margin-left: 25%;
+    margin-bottom: 5%;
+    background-color: rgb(247, 156, 133);
+    font-size: large;
+    color: rgb(20, 32, 8);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(235, 117, 96);
+}
+
+
+a {
+    color: brown;
+    font-style: italic;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100% ;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+}
